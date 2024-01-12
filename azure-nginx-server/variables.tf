@@ -1,0 +1,9 @@
+variable "prefix" {}
+variable "azure-rg-name" {}
+variable "location" {}
+variable "internal_subnet" {}
+variable "public_subnet" {}
+variable "userName" {}
+variable "userPassword" {}
+variable "vmSize" {}
+variable "osDisk" {}
